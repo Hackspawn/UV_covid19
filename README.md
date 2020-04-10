@@ -1,7 +1,7 @@
 # UV_covid19
 Cámara UV para reutilización de mascarillas
 
-![GitHub Logo](00.jpeg)
+![GitHub Logo](img/00.jpeg)
 
 Ante el panorama mundial por pandemia COVID-19, la cantidad de elementos de protección como mascarillas se vuelven cada vez más un bien más preciado y escaso. [Recientes investigaciones](https://www.register-herald.com/region/seti-s-violeds-technology-proves-99-9-sterilization-of-coronavirus-covid-19-in-30-seconds/article_eb3bed40-35ed-5b56-b1a2-b16c40895c4c.html
 ) relacionadas con baños ultravioleta (UV) de no más de 30 segundos, evidencian una limpieza total de la mascarilla y la posibilita de ser reutilizada.
