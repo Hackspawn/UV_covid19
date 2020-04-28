@@ -4,11 +4,11 @@ NOTA: Antes de comenzar, protege tus ojos con Lentes Oscuros. La luz UV puede se
 
 ###Paso #1:
 
-![Esquema LED](img/01.jpeg)
+![Ampolleta UV-C](materiales/uvc.jpg)
 
-Considerando la alimentación de 12V y el Voltage de los LEDs UV que son de 3V-3.2V según el fabricante ([CHANZON](https://www.amazon.com/stores/Chanzon/Chanzon/page/ED49B7ED-839C-4128-ADC6-BD5D12919F6A)), el esquemático de LEDs se presenta en un circuito paralelo de 3 LEDs por una resistencia de 150Ohm tal como muestra el diagrama 1:
+Ante los comentarios y aportes, se cambian los LEDs UV-A por una ampolleta UV-C (valor referencia U$6.99), esto reduce los costos y el montaje en cuanto a electrónica se refiere. El principio de una fuente de iluminación se mantiene igual que en el prototipo inicial.
 
-![Diagrama #1](figs/esquem_LEDS.svg)
+~~Considerando la alimentación de 12V y el Voltage de los LEDs UV que son de 3V-3.2V según el fabricante ([CHANZON](https://www.amazon.com/stores/Chanzon/Chanzon/page/ED49B7ED-839C-4128-ADC6-BD5D12919F6A)), el esquemático de LEDs se presenta en un circuito paralelo de 3 LEDs por una resistencia de 150Ohm tal como muestra el diagrama 1:~~
 
 ###Paso #2:
 
